@@ -1,0 +1,82 @@
+/* Add a black background color to the top navigation */
+.topnav {
+  background-color:#001f3f;
+  overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: right;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color:#39CCCC;
+  color: black;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+  background-color:#39CCCC;
+  color: white;
+}
+
+.topnav a.head2{
+  float: left;
+  font-family: 'Odibee Sans', ;
+}
+
+
+/* Float the link section to the right */
+.header-right {
+  float: center;
+}
+
+.title-content {
+  width: 100%;
+vertical-align:middle;
+margin-top: -6%;
+text-align:center;
+background-color: #001f3f;
+}
+
+.title-content p{
+  font-size: 72px;
+  color: #fff;
+  text-shadow: 0 1px 0 #424242, 0 0 5px #424242;
+  font-family: Roboto-Bold, sans-serif;
+}
+
+body {
+  margin: 0;
+}
+h3{
+font-size: 34px;
+text-align: center;
+width: 100%;
+}
+
+p{
+font-size: 22px;
+font-family: 'Nunito', sans-serif;
+margin-left:4%;
+margin-right:4%;
+text-indent: 10%;
+}
+img{
+  padding-left: 0%;
+  padding-right: 0%;
+  margin-left:4%;
+  margin-right:4%;
+}
+.body2{
+  text-align: justify;
+  float: center;
+  height:1200px;
+}
+
