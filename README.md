@@ -1,2 +1,2 @@
 # ATTL
-A Basic Tours and Travel website made in html and css
+A Basic Tours and Travel website made in HTML and CSS
